@@ -18,4 +18,5 @@ opencv projects
 *8.Function that binds the mouse on single left and right click and display any pixel cordinate point on left single click and on right click gets the pixel colour intensities*
 
 *9.Function to create a colour picker tracker*
+
 *10.Function to split channels,megre the channels,for the image shape,finding the no of pixels,for image data type,for image type,silicing* 
