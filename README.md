@@ -24,3 +24,5 @@ opencv projects
 *11.Function for the region of interest*
 
 *12.Function for the adding the borders for top,bottom,left,right*
+
+*13.Function for blending the two images(Simply add)*
