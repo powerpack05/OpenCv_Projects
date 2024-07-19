@@ -22,3 +22,5 @@ opencv projects
 *10.Function to split channels,megre the channels,for the image shape,finding the no of pixels,for image data type,for image type,silicing* 
 
 *11.Function for the region of interest*
+
+*12.Function for the adding the borders for top,bottom,left,right*
