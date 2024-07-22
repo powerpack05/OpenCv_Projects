@@ -26,3 +26,5 @@ opencv projects
 *12.Function for the adding the borders for top,bottom,left,right*
 
 *13.Function for blending the two images(Simply add)*
+
+*14.Project on Image Blending Using Image trackbars*
