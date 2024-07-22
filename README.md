@@ -28,3 +28,5 @@ opencv projects
 *13.Function for blending the two images(Simply add)*
 
 *14.Project on Image Blending Using Image trackbars*
+
+*15.Function on bitwise operations and,or,xor,not*
