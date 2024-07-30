@@ -32,3 +32,5 @@ opencv projects
 *15.Function on bitwise operations and,or,xor,not*
 
 *16.Function for Loading the Video,Extracting the Frames,Saving the Frames at specific intervals*
+
+*17.Function for Colour Detection using HSV*
