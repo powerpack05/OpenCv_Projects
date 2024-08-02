@@ -36,3 +36,5 @@ opencv projects
 *17.Function for Colour Detection using HSV*
 
 *18.Function for Colour Detection Using Track Bars*
+
+*19.Apply simple thresholding techniques like binary thresholding,binary inversion thresholding,Truncate thresholding,to zero thresholding*
