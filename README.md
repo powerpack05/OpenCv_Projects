@@ -40,3 +40,5 @@ opencv projects
 *19.Apply simple thresholding techniques like binary thresholding,binary inversion thresholding,Truncate thresholding,to zero thresholding*
 
 *20.Function for morphological and Smoothing*
+
+*21.Function for Edge Detection,Canny Edge Detection and Pyramid*
